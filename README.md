@@ -1,5 +1,6 @@
 # **Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis** ## **Project Description** - This project focuses on the classification of different types of mushrooms found in various regions of the world. The classification is based on images of mushrooms, and the goal is to use deep learning techniques for accurate species recognition. - By applying transfer learning and deep learning methodologies, the project aims to accurately classify mushrooms into three main categories: Boletus, Lactarius, and Russula. These categories represent different types of mushrooms found in diverse regions worldwide. The ultimate objective is to develop a robust and reliable classification system for mushroom species recognition based on their visual attributes. ## **Screenshots** ### Home Page:
-[Your Image Description](https://camo.githubusercontent.com/acab11e3741e5399b9201b53b2eb01c0a59d3011220d49c7f8224106e73f7b94/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3179425368377a7544645570384f51637844787778775a43663255596c6b50514f)
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/6c971ffd-8106-43bb-b4f4-b527c4715aad" />
+
 
 ### Mushroom Classification Result:
 Classification Results Display
