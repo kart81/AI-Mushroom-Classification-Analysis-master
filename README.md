@@ -2,7 +2,7 @@
 <img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/6c971ffd-8106-43bb-b4f4-b527c4715aad" />
 
 
-### Mushroom Classification Result:
+### **Mushroom Classification Result:**
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/9366f394-68d1-4a24-bc3c-16271e1dd687" />
 
 
